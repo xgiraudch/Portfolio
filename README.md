@@ -12,6 +12,8 @@ Dashboard Tableau présentant les principales statistiques sur le Covid (donnée
 
 => Dashboard disponible sur mon profil [Tableau Public](https://public.tableau.com/app/profile/xavier.g1335)
 
+![Image Dashboard Tableau](https://drive.google.com/file/d/1_77Lr7QE1X4qqD4TQC4-0qjzGwF-rcSX/view?usp=sharing)
+
 ## 2) Étude sur l'insertion professionnelle des jeunes issus de Zones Urbaines Sensibles. SAS
 
 Projet réalisé avec _Valentin Tissot_ sur SAS et Word. Note: 18/20.
