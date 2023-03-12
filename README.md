@@ -5,10 +5,12 @@ Projets personnels sur SQL | Excel | Power BI | Tableau | Python | SAS
 
 ## 1) Projet Covid: SQL + Tableau
 
-Exploration des données sur SQL Server  || Préparation des données pour le dashboard final. 
+Exploration des données sur SQL Server.
+Préparation des données pour le dashboard final. 
+
 Dashboard Tableau présentant les principales statistiques sur le Covid (données jusqu'à fin 2022)
 
-=> Dashboard disponible sur mon profil Tableau Public
+=> Dashboard disponible sur mon profil [Tableau Public](https://public.tableau.com/app/profile/xavier.g1335)
 
 ## 2) Étude sur l'insertion professionnelle des jeunes issus de Zones Urbaines Sensibles. SAS
 
