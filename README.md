@@ -2,13 +2,19 @@
 
 Projets personnels sur SQL | Excel | Power BI | Tableau | Python | SAS
 
+
+
 ## Dashboard Excel: Bicycles Sales
 
 Dashboard fait sur Excel, présentant les ventes de vélos selon plusieurs critères.
 
+
+
 ## Dashboard PowerBI: Global Superstore
 
 Dashboard fait après l'incontournable dataset "Global Superstore".
+
+
 
 ## Projet Covid: SQL + Tableau
 
@@ -17,6 +23,11 @@ Dashboard Tableau pour présenter les principales statistiques sur le Covid (don
 
 => Dashboard disponible sur mon profil Tableau Public
 
+
+
 ## Dashboard PowerBI: Satisfaction des employés
 
 Nettoyage des données directement sur PowerBI, puis présentation graphique des principaux résultats.
+
+
+##
