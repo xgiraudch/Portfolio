@@ -31,7 +31,7 @@ Nettoyage et préparation des données, puis création d'un dashboard présentan
 Tout étudiant qui commence à se former sur Tableau ou PowerBI tombe à un moment ou un autre sur le dataset "Superstore".
 J'ai donc réalisé un dashboard à partir de ces données.
 
-![Image Dashboard Superstore](https://github.com/xgiraudch/Portfolio/issues/2#issue-1620557456)
+![Image Dashboard Superstore]([https://github.com/xgiraudch/Portfolio/issues/2#issue-1620557456](https://user-images.githubusercontent.com/62169499/224581669-bff221f4-8195-4f27-9207-ece94f209483.png))
 
 
 ## Dashboard PowerBI: Satisfaction des employés
