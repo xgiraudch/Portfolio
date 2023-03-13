@@ -36,8 +36,8 @@ J'ai donc réalisé un dashboard à partir de ces données.
 
 ## Dashboard PowerBI: Satisfaction des employés
 
-Nettoyage des données directement sur PowerBI, puis présentation graphique des principaux résultats.
+Nettoyage des données sur PowerBI, puis présentation graphique des principaux résultats.
 
-![Image Dashboard Satisfaction](https://user-images.githubusercontent.com/62169499/224582072-3dc2e5ee-9af7-4123-9c5f-cfc3996d117f.png)
+![Image Dashboard Satisfaction](https://user-images.githubusercontent.com/62169499/224582072-3dc2e5ee-9af7-4123-9c5f-cfc3996d117f.png) ![Image2](https://user-images.githubusercontent.com/62169499/224582194-9243252a-8072-4c59-b2ab-09c8cbd0bac4.png)
 
 
