@@ -21,10 +21,11 @@ Projet réalisé avec _Valentin Tissot_ sur SAS et Word. Note: 18/20.
 Dans ce projet, nous fournissons une description statistique des difficultés d'insertion des jeunes issus de quartiers sensibles. 
 Dans un second temps, nous quantifions ces difficultés et la possible discrimination à l'origine de celles-ci grâce à des modèles économétriques.
 
+[Lien vers le fichier PDF](https://drive.google.com/file/d/1Aw-v-nGfs07vwk97mOmZFOlQvSul7vao/view?usp=sharing)
 ## 3) Dashboard Excel: Bicycles Sales
 
 Nettoyage et préparation des données, puis création d'un dashboard présentant les ventes selon plusieurs critères.
-
+![Image Bicycles](https://user-images.githubusercontent.com/62169499/224582555-d9338d36-a14a-42b1-804b-51ea312f213c.png)
 
 ## Dashboard PowerBI: Global Superstore
 
