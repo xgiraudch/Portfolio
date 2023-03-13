@@ -38,5 +38,6 @@ J'ai donc réalisé un dashboard à partir de ces données.
 
 Nettoyage des données directement sur PowerBI, puis présentation graphique des principaux résultats.
 
+![Image Dashboard Satisfaction](https://user-images.githubusercontent.com/62169499/224582072-3dc2e5ee-9af7-4123-9c5f-cfc3996d117f.png)
 
 
