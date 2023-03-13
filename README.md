@@ -46,7 +46,7 @@ J'ai donc réalisé un dashboard à partir de ces données.
 
 
 
-## 6) Data Cleaning: Nashville Housing _SQL_
+## 6) SQL Data Cleaning: Nashville Housing 
 
 Nettoyage d'un dataset sur SQL.
 
